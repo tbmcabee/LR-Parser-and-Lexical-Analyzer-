@@ -1,4 +1,4 @@
-# U530Assignments
+# U530 Assignments
 
 These were assignments from my U530 Programming Language Structures course, which includes an LR Parser and Lexical Analyzer.
 Both of these projects were programed in JAVA.
