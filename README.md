@@ -6,14 +6,23 @@ Both of these projects were programed in JAVA.
 # The Lexical Analyzer was based on the following parameters: 
 
 Input: a source code file, (.txt file). Ask user to input the file name.
+
 Output: printing all recognized tokens
+
 The source code accepted tokens include
+
 Keywords:  int   double  String  (case sensitive)
+
 operators:  =   (  )  +  -  *  /  ,  ;
+
 identifier:  letter(letter|digit)*
+
 int constant
+
 double constant
+
 string constant: string constant is enclosed in a pair of "", such as "abc"
+
 anything not recognized is detected as errors
 
 # The LR Parser was based on the following rules:
